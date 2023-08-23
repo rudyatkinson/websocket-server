@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hkk/wrN4uMtLIHi9hLdB5DiHneDYvQYM4uoWa/WM/2Uceq4XH68y5fisP3EYE3pOHffVEDx/IqJGrJa+l6aJ0g==",
+  "dgSpecHash": "40b+O+TxGEKFaNczkT7a6541rPXM51IWmXmzTT2MA+4GmStcfquh9km3ejiTWuselI36sF1yslKjns37Ml6iKw==",
   "success": true,
-  "projectFilePath": "D:\\game-backend-prototype\\samsung-websocket-server\\samsung-websocket-server.csproj",
+  "projectFilePath": "D:\\websocket-server\\samsung-websocket-server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aydnb\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
+    "C:\\Users\\aydnb\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512",
+    "C:\\Users\\aydnb\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.10\\microsoft.netcore.app.runtime.linux-x64.7.0.10.nupkg.sha512",
+    "C:\\Users\\aydnb\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.10\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.10.nupkg.sha512",
+    "C:\\Users\\aydnb\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.10\\microsoft.netcore.app.host.linux-x64.7.0.10.nupkg.sha512"
   ],
   "logs": [
     {
