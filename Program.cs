@@ -7,8 +7,6 @@ Console.WriteLine("Hello, World!");
 
 Console.Write($"Please enter address: ");
 var server = new WebSocketServer("ws://" + Console.ReadLine());
-Console.Write($"Please enter server password: ");
-var serverPassword = Console.ReadLine();
 
 server.AddWebSocketService<ServerBehaviour>("/server");
 server.AddWebSocketService<PlayerBehaviour>("/player");
