@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "samsung-websocket-server", "samsung-websocket-server.csproj", "{24511184-A1EB-4C5B-900B-9A764C75599B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24511184-A1EB-4C5B-900B-9A764C75599B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24511184-A1EB-4C5B-900B-9A764C75599B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24511184-A1EB-4C5B-900B-9A764C75599B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24511184-A1EB-4C5B-900B-9A764C75599B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

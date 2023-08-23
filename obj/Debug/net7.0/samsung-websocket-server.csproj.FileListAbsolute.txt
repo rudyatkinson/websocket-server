@@ -1,0 +1,17 @@
+D:\game-backend-prototype\samsung-websocket-server\bin\Debug\net7.0\samsung-websocket-server.exe
+D:\game-backend-prototype\samsung-websocket-server\bin\Debug\net7.0\samsung-websocket-server.deps.json
+D:\game-backend-prototype\samsung-websocket-server\bin\Debug\net7.0\samsung-websocket-server.runtimeconfig.json
+D:\game-backend-prototype\samsung-websocket-server\bin\Debug\net7.0\samsung-websocket-server.dll
+D:\game-backend-prototype\samsung-websocket-server\bin\Debug\net7.0\samsung-websocket-server.pdb
+D:\game-backend-prototype\samsung-websocket-server\bin\Debug\net7.0\websocket-sharp.dll
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\samsung-websocket-server.csproj.AssemblyReference.cache
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\samsung-websocket-server.GeneratedMSBuildEditorConfig.editorconfig
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\samsung-websocket-server.AssemblyInfoInputs.cache
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\samsung-websocket-server.AssemblyInfo.cs
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\samsung-websocket-server.csproj.CoreCompileInputs.cache
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\samsung-websocket-server.csproj.CopyComplete
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\samsung-websocket-server.dll
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\refint\samsung-websocket-server.dll
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\samsung-websocket-server.pdb
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\samsung-websocket-server.genruntimeconfig.cache
+D:\game-backend-prototype\samsung-websocket-server\obj\Debug\net7.0\ref\samsung-websocket-server.dll
