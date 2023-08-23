@@ -12,6 +12,7 @@ server.AddWebSocketService<ServerBehaviour>("/server");
 server.AddWebSocketService<PlayerBehaviour>("/player");
 
 server.Start();
+Console.WriteLine(server.Address);
 Console.ReadKey (true);
 server.Stop();
 
